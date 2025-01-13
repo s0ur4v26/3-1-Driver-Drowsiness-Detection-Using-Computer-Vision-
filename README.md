@@ -1,5 +1,6 @@
 
-![Image_Alt](![image](https://github.com/user-attachments/assets/78b36d2e-64ef-47e2-9f03-a37621e5409e)
+![Image_Alt](![image](https://github.com/s0ur4v26/3-1-Driver-Drowsiness-Detection-Using-Computer-Vision-/blob/main/Screenshot%202025-01-13%20231554.png?raw=true)
+<h2>Fig: Block Diagram of the system</h2>
 
 
 
