@@ -46,5 +46,5 @@
     <li>Trigger an alert if drowsiness is detected (e.g., eyes closed for a prolonged period).</li>
 </ol>
 
-<h3>Pretrain Model  Link </h3>
+<h3>Pretrained Model  Link </h3>
 <p> https://drive.google.com/file/d/1Z-4r2Tak_az3odGfU4K_qIwOXLfRDdVb/view?usp=sharing</p>
