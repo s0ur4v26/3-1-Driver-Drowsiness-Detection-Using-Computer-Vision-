@@ -1,4 +1,4 @@
-<h1>Fig: Block Diagram of the system</h1>
+<h1>Block Diagram  Representation of the system</h1>
 
 ![image](https://github.com/s0ur4v26/3-1-Driver-Drowsiness-Detection-Using-Computer-Vision-/blob/main/Screenshot%202025-01-13%20231554.png?raw=true)
 
