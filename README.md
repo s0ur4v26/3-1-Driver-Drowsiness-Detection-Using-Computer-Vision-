@@ -1,6 +1,7 @@
+<h1>Fig: Block Diagram of the system</h1>
 
 ![image](https://github.com/s0ur4v26/3-1-Driver-Drowsiness-Detection-Using-Computer-Vision-/blob/main/Screenshot%202025-01-13%20231554.png?raw=true)
-<h2>Fig: Block Diagram of the system</h2>
+
 
 
 
@@ -56,5 +57,10 @@
 
 <h3>Pretrained Model  Link </h3>
 <p> https://drive.google.com/file/d/1Z-4r2Tak_az3odGfU4K_qIwOXLfRDdVb/view?usp=sharing</p>
+
+
+<h1>Result:</h1>
+
+![image](https://github.com/user-attachments/assets/cde6d5ec-fbbc-4407-ab05-7a01979826f4)
 
 
