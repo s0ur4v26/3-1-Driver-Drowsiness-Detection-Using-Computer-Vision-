@@ -1,5 +1,5 @@
 
-![Image_Alt](![image](https://github.com/s0ur4v26/3-1-Driver-Drowsiness-Detection-Using-Computer-Vision-/blob/main/Screenshot%202025-01-13%20231554.png?raw=true)
+(![image](https://github.com/s0ur4v26/3-1-Driver-Drowsiness-Detection-Using-Computer-Vision-/blob/main/Screenshot%202025-01-13%20231554.png?raw=true)
 <h2>Fig: Block Diagram of the system</h2>
 
 
