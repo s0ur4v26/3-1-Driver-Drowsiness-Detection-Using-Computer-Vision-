@@ -17,7 +17,7 @@
 </ul>
 
 <h3>2. Model Training</h3>
-<p>A MobileNet model is used for training, but you can customize the architecture as needed. Once trained, the model is saved for future use.</p>
+<p>MobileNet ,Which  is a pretrained model from keras library is  used for training, but you can customize the architecture as needed. Once trained, the model is saved for future use.</p>
 <p><strong>Script:</strong> <code>Model Training.py</code></p>
 <ol>
     <li>Load the preprocessed dataset.</li>
